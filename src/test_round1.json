@@ -1,0 +1,12 @@
+{
+	"Mullen-Yackel": {
+		"wins": 0,
+		"loses": 1,
+		"speaker_points": [38]
+	},
+	"Blacknall-Hicks": {
+		"wins": 1,
+		"loses": 0,
+		"speaker_points": [40] 
+	}
+}
