@@ -1,0 +1,2 @@
+language = "python"
+run = "cd src; python3 index.py"

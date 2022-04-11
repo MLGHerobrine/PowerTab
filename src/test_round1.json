@@ -1,12 +1,47 @@
 {
-	"Mullen-Yackel": {
+	"Team 1": {
 		"wins": 0,
 		"loses": 1,
 		"speaker_points": [38]
 	},
-	"Blacknall-Hicks": {
+	"Team 2": {
 		"wins": 1,
 		"loses": 0,
 		"speaker_points": [40] 
+	},
+	"Team 3": {
+		"wins": 0,
+		"loses": 1,
+		"speaker_points": [20]
+	},
+	"Team 4": {
+		"wins": 1,
+		"loses": 0,
+		"speaker_points": [35] 
+	},
+	"Team 5": {
+		"wins": 0,
+		"loses": 1,
+		"speaker_points": [19]
+	},
+	"Team 6": {
+		"wins": 1,
+		"loses": 0,
+		"speaker_points": [12] 
+	},
+	"Team 7": {
+		"wins": 0,
+		"loses": 1,
+		"speaker_points": [40]
+	},
+	"Team 8": {
+		"wins": 1,
+		"loses": 0,
+		"speaker_points": [22] 
+	},
+	"Team 9": {
+		"wins": 1,
+		"loses": 0,
+		"speaker_points": [40]
 	}
 }

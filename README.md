@@ -1,8 +1,25 @@
 # PowerTab
-A power matching tool for STOA
+A Tabulation software for STOA
 
-## Roadmap
+**IN DEVELOPMENT**
 
-Beta: Able to match teams, with a GUI
+## Features
+[Coming soon]
+- Full powermatching, including
+	- BYE rounds
+  - Out rounds
+  - Semis + Finals
 
-v1.0: Like beta, but with all bugs straightened out.
+## Roadmap:
+
+### Beta:
+- Full Powermatching based on record and speaker points.
+- Print-ready Postings
+- Easy data input method
+
+### v1.0:
+- Bug Free Version of Beta
+- Add cumulative results
+
+### v2.0:
+- 
